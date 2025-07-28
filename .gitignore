@@ -1,0 +1,5 @@
+node_modules
+.vscode
+.Ds_Store
+.env
+.env.*
